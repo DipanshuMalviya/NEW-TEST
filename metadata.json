@@ -1,0 +1,6 @@
+{
+  "name": "Mr. Casanova - Your Cultured Wingman",
+  "description": "Hyper-local Indian dating wingman and screenshot decoder featuring subtext sentiment breakdown, zero-creep counter-punch replies, profile polish, city-smart date planner, and live expert consults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
